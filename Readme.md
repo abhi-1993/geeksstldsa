@@ -1,1 +1,1 @@
-Practice from geeks for geeks stl and data structure.
+Practice codes from geeks for geeks data structure and algorithm using stl.
