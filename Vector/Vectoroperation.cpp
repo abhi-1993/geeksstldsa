@@ -10,7 +10,7 @@ bool sortcol(const vector<int>& v1, const vector<int>& v2)
     }
 int main()
 {
-    vector<vector<int> > vect { {3,4,2},
+    vector<vector<int> > vect { {3,4,5},
                                 {6,9,5},
                                 {8,1,7}};
 
